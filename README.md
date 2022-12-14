@@ -1,14 +1,22 @@
-- 👋 Hi, I’m @itzabhi69
-- 👀 I’m Full-time Student
-- 🌱 I’m currently learning All kind of stuff
-- 💞️ You can find me on Discord, Youtube and many more stuff
-- 📫 How to reach me ...
-    Just join my discord server https://discord.gg/pDvRFumT and go on about-us section, you will find everything
+# Hi there, I'm itz-tony - aka [ItzAbhi#7931][discord-user-id] 👋
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
+## I'm a Grade 11th Science Student, and Developer!!
 
-<!---
-itzabhi69/itzabhi69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✌🏻 Age: 16
+-
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2023 Goals:
+  - Learn more about web3
+  - Learn JAVA and JS
 
+---
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[youtube]: https://youtube.com/@rust2649
+[discord-user-id]: https://discordapp.com/users/919538751452119040
