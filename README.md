@@ -21,6 +21,7 @@ Editing in progress...
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HI](https://dev.to/itztony/hi-m6a)
 <!-- BLOG-POST-LIST:END -->
 
 [youtube]: https://youtube.com/@rust2649
