@@ -10,6 +10,8 @@
   - Learn more about web3
   - Learn JAVA and JS
 
+### Connect with me:
+
 ---
 
 # Blog posts
