@@ -1,6 +1,6 @@
 # Hi there, I'm itz-tony - aka [ItzAbhi#7931][discord-user-id] 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=RED&label=SUBSCRIBERs&logo=youtube&logoColor=orange&style=social)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
 ## I'm a Grade 11th Science Student, and Developer!!
 
