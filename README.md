@@ -12,9 +12,6 @@ Editing in progress...
   - Learn more about web3
   - Learn JAVA and JS
 
-<br />
-<br />
-
 ---
 
 ### Connect with me:
