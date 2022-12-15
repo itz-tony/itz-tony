@@ -23,5 +23,7 @@ Editing in progress...
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+[![Itz-Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-tony)](https://github.com/anuraghazra/github-readme-stats)
+
 [youtube]: https://youtube.com/@rust2649
 [discord-user-id]: https://discordapp.com/users/919538751452119040
