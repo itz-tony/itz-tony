@@ -28,7 +28,7 @@ Editing in progress...
 
 ### Connect with me:
 
-<iframe src="./html/discord.html" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<img src="https://discord.com/widget?id=853671224588238928&theme=dark" width="350" height="500" allowtransparency="true"></img>
 
 <br />
 <br />
