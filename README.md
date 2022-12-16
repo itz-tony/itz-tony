@@ -35,8 +35,16 @@ Editing in progress...
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<!--
+[![Itz-Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-tony)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Itz-Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-tony)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br />
+  
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itz-tony&show_icons=true&theme=radical" />
+
+</details>
 
 [youtube]: https://youtube.com/@rust2649
 [discord-user-id]: https://discordapp.com/users/919538751452119040
