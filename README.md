@@ -40,7 +40,7 @@ Editing in progress...
 ### Connect with me:
 
 <object data="https://discord.com/widget?id=853671224588238928&theme=dark">
-  <embed src="https://discord.com/widget?id=853671224588238928&theme=dark" width="350" height="500">
+  <embed src="https://discord.com/widget?id=853671224588238928&theme=dark" width="350" height="500"> </embed>
 </object>
 
 <br />
