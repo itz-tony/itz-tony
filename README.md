@@ -43,12 +43,13 @@ Editing in progress...
   <br />
 
   <iframe src="https://discord.com/widget?id=853671224588238928&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  
 </details>
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br />
   
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itz-tony&show_icons=true&theme=radical&hide_border=true" />
+  <img align="left" alt="Itz-Tony's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itz-tony&show_icons=true&theme=radical&hide_border=true" />
 
 </details>
 
