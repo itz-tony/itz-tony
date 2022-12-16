@@ -36,7 +36,12 @@
 
 ### Connect with me:
 
+<div align="left">🔮 Discord Server<div>
 <a href="https://discord.com/invite/Wh6DcV2J?utm_source=Discord%20Widget&utm_medium=Connect"> <img src="https://discord.com/api/guilds/853671224588238928/widget.png?style=banner2"></a>
+
+[<img align="left" alt="Discord" width="26px" src="https://cdn.discordapp.com/attachments/1053253983696867348/1053255180428251206/Vector.png" style="padding-right:10px;" />][discord-user-id]
+[<img align="left" alt="" width="26px" src="./img/github-dark.svg" style="padding-right:10px;" />](https://github.com/itz-tony)
+[<img align="left" alt="" width="26px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube]
 
 <br />
 <br />
