@@ -38,7 +38,6 @@ Editing in progress...
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HI](https://dev.to/itztony/hi-m6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!--[![Itz-Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-tony)](https://github.com/anuraghazra/github-readme-stats) -->
