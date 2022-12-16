@@ -36,7 +36,8 @@
 
 ### Connect with me:
 
-<a href="https://discord.com/invite/Wh6DcV2J?utm_source=Discord%20Widget&utm_medium=Connect"> <img src="https://discord.com/api/guilds/853671224588238928/widget.png?style=banner4"></a>
+<summary>🔮 Discord</summary>
+<a href="https://discord.com/invite/Wh6DcV2J?utm_source=Discord%20Widget&utm_medium=Connect"> <img src="https://discord.com/api/guilds/853671224588238928/widget.png?style=banner2"></a>
 
 <br />
 <br />
