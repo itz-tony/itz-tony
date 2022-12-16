@@ -1,8 +1,16 @@
 Editing in progress...
 
-# Hi there, I'm itz-tony - aka [ItzAbhi#7931][discord-user-id] 👋
+<!-- Main Heading  -->
+
+# <div align="center">Hi there, I'm itz-tony - aka [ItzAbhi#7931][discord-user-id] 👋</div>
+
+<!-- Links -->
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+
+[![Discord Server](https://img.shields.io/discord/853671224588238928?color=red&label=Server&logo=discord&logoColor=red&style=for-the-badge)][]
+
+<!-- Intro -->
 
 ## I'm a Grade 11th Science Student, and Developer!!
 
@@ -11,6 +19,9 @@ Editing in progress...
 - 🥅 2023 Goals:
   - Learn more about web3
   - Learn JAVA and JS
+- 🔮 Currently Working on:
+  - Discord bot using [Discord.js library](https://discord.js.org/#/)
+  - Java projects
 
 ---
 
@@ -28,19 +39,21 @@ Editing in progress...
 
 ### Connect with me:
 
-<img src="https://discord.com/widget?id=853671224588238928&theme=dark" width="350" height="500" allowtransparency="true"></img>
+<object data="https://discord.com/widget?id=853671224588238928&theme=dark">
+  <embed src="https://discord.com/widget?id=853671224588238928&theme=dark" width="350" height="500">
+</object>
 
 <br />
 <br />
 
 ---
 
-# Blog posts
+### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!--[![Itz-Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-tony)](https://github.com/anuraghazra/github-readme-stats) -->
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -54,3 +67,4 @@ Editing in progress...
 
 [youtube]: https://youtube.com/@rust2649
 [discord-user-id]: https://discordapp.com/users/919538751452119040
+[discord-server]: https://discord.com/invite/Wh6DcV2J?utm_source=Discord%20Widget&utm_medium=Connect
