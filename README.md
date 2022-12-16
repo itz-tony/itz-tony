@@ -1,14 +1,11 @@
-Editing in progress...
-
 <!-- Main Heading  -->
 
 # <div align="center">Hi there, I'm itz-tony - aka [ItzAbhi#7931][discord-user-id] 👋</div>
 
-<!-- Links -->
+<!-- Image shields -->
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-
-[![Discord Server](https://img.shields.io/discord/853671224588238928?color=red&label=Server&logo=discord&logoColor=red&style=for-the-badge)][]
+[![Discord Server](https://img.shields.io/discord/853671224588238928?color=red&label=Server&logo=discord&logoColor=red&style=for-the-badge)][discord-server-invite-link]
 
 <!-- Intro -->
 
@@ -39,9 +36,7 @@ Editing in progress...
 
 ### Connect with me:
 
-<object data="https://discord.com/widget?id=853671224588238928&theme=dark" width="350" height="500">
-  <embed src="https://discord.com/widget?id=853671224588238928&theme=dark" width="350" height="500"> </embed>
-</object>
+[<img src="https://discord.com/api/guilds/853671224588238928/widget.json"></img>][discord-server-invite-link]
 
 <br />
 <br />
@@ -67,4 +62,4 @@ Editing in progress...
 
 [youtube]: https://youtube.com/@rust2649
 [discord-user-id]: https://discordapp.com/users/919538751452119040
-[discord-server]: https://discord.com/invite/Wh6DcV2J?utm_source=Discord%20Widget&utm_medium=Connect
+[discord-server-invite-link]: https://discord.com/invite/Wh6DcV2J?utm_source=Discord%20Widget&utm_medium=Connect
