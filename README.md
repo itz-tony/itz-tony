@@ -14,10 +14,6 @@ Editing in progress...
 
 ---
 
-### Connect with me:
-
-Editing in progress...
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
@@ -27,7 +23,20 @@ Editing in progress...
 
 <br />
 <br />
-Editing in progress...
+
+---
+
+### Connect with me:
+
+<details>
+  <summary>😎 Discord Server</summary>
+
+  <iframe src="https://discord.com/widget?id=853671224588238928&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+</details>
+
+<br />
+<br />
 
 ---
 
@@ -39,19 +48,14 @@ Editing in progress...
 <!--[![Itz-Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-tony)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <details>
-  <summary>:zap: Discord Server</summary>
-  <br />
-
-  <iframe src="https://discord.com/widget?id=853671224588238928&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-  
-</details>
-<details>
   <summary>:zap: GitHub Stats</summary>
   <br />
   
   <img align="left" alt="Itz-Tony's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itz-tony&show_icons=true&theme=radical&hide_border=true" />
 
 </details>
+
+<!-- DEFINATIONS -->
 
 [youtube]: https://youtube.com/@rust2649
 [discord-user-id]: https://discordapp.com/users/919538751452119040
