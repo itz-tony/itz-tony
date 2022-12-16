@@ -53,6 +53,7 @@
 ### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HI](https://dev.to/itztony/hi-m6a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
