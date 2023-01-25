@@ -115,7 +115,6 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 
 ## ⚡ GitHub Stats
 
-<br />
 <img 
   align="left" 
   alt="Itz-Tony's GitHub Stats" 
