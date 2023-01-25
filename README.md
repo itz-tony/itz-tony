@@ -26,27 +26,32 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 
 - Learn more about web3
 - Learn JAVA and JS
-  <!-- Image shields -->
+  <!-- Image shields
   [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-  [![Discord Server](https://img.shields.io/discord/1058990433553883156?color=red&label=SERVER&logo=discord&logoColor=red&style=for-the-badge)][discord-server-invite-link]
+  [![Discord Server](https://img.shields.io/discord/1058990433553883156?color=red&label=SERVER&logo=discord&logoColor=red&style=for-the-badge)][discord-server-invite-link] -->
 
 ## 🔗 Connect With Me
 
 <!-- Social badges section -->
 
 <p align="center">
+  <a href="https://youtube.com/@rust2649">
+    <img
+      atl=""
+    >
+  </a>
   <a href="https://www.youtube.com/@rust2649?sub_confirmation=1">
     <img 
       alt="youtube subscribers" 
       title="Subscribe to my YouTube channel" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge"
     />
   </a>
   <a href="https://www.youtube.com/@rust2649">
     <img 
       alt="youtube views" 
       title="YouTube views" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCyc4JNEutYQBoDfdtnJ6vag?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge"
     />
   </a> 
   <a href="https://github.com/itz-tony?tab=repositories&sort=stargazers">
