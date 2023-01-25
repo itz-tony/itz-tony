@@ -83,8 +83,7 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
     src="https://discord.com/api/guilds/1058990433553883156/widget.png?style=banner2"/>
   </a>
 </p>
-
-<br />
+---
 
 ## 🧰 Languages and Tools
 
@@ -106,14 +105,18 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
----
+## 📘 Latest Blog posts
 
-### 📘 Latest Blog posts
+<details>
+  <summary> Latest Blog Posts <summary>
+  <br />
 
 <!-- BLOG-POST-LIST:START -->
 
 - [HI](https://dev.to/itztony/hi-m6a)
 <!-- BLOG-POST-LIST:END -->
+
+</details>
 
 <details title="Stats">
   <summary>:zap: GitHub Stats</summary>
