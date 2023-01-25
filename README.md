@@ -32,11 +32,6 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 <!-- Social badges section -->
 
 <p align="center">
-  <a href="https://youtube.com/@rust2649">
-    <img
-      atl=""
-    >
-  </a>
   <a href="https://www.youtube.com/@rust2649?sub_confirmation=1">
     <img 
       alt="youtube subscribers" 
@@ -65,14 +60,6 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
     src="https://custom-icon-badges.demolab.com/github/followers/itz-tony?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
     />
   </a>
-  <!-- To be fixed -->
-  <!-- <a href="https://github.com/itz-tony/Simple-View-Counter">
-    <img 
-    alt="views" 
-    title="GitHub profile views" 
-    src="https://freshidea.com/jonah/app/itz-tony-profile-views"
-    />
-  </a> -->
 </p>
 
 <p align="center">
