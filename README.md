@@ -5,7 +5,7 @@
 <!-- Image shields -->
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Discord Server](https://img.shields.io/discord/1058990433553883156?color=red&label=SERVER&logo=DISCORD&logoColor=red&style=for-the-badge)][discord-server-invite-link]
+[![Discord Server](https://img.shields.io/discord/1058990433553883156?color=red&label=SERVER&logo=discord&logoColor=red&style=for-the-badge)][discord-server-invite-link]
 
 <!-- Intro -->
 
