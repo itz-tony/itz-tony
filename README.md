@@ -112,6 +112,8 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 ### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
+- [HI](https://dev.to/itztony/hi-m6a)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
