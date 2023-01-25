@@ -88,6 +88,7 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
     src="https://custom-icon-badges.demolab.com/github/followers/itz-tony?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
     />
   </a>
+  <!-- To be fixed -->
   <!-- <a href="https://github.com/itz-tony/Simple-View-Counter">
     <img 
     alt="views" 
@@ -96,15 +97,20 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
     />
   </a> -->
 </p>
+<div align="center">🔮 Discord Server <div>
 
-<div align="left">🔮 Discord Server <div>
-<a href=discord-server-invite-link> <img src="https://discord.com/api/guilds/1058990433553883156/widget.png?style=banner2"></a>
-
-<br />
+<p align="center">
+  <a href="https://discord.com/invite/nGE9bmXnEW">
+  <img 
+    alt="discord invite banner"
+    title="Discord Invite Banner"
+    src="https://discord.com/api/guilds/1058990433553883156/widget.png?style=banner2"/>
+  </a>
+</p>
 
 [<img align="left" alt="Discord" width="26px" src="https://cdn.discordapp.com/attachments/1053253983696867348/1053255180428251206/Vector.png" style="padding-right:10px;" />][discord-user-id]
-[<img align="left" alt="" width="26px" src="./img/github-dark.svg" style="padding-right:10px;" />](https://github.com/itz-tony)
-[<img align="left" alt="" width="26px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube]
+[<img align="left" alt="github" width="26px" src="./img/github-dark.svg" style="padding-right:10px;" />](https://github.com/itz-tony)
+[<img align="left" alt="youtube" width="26px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube]
 
 ---
 
