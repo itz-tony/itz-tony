@@ -44,14 +44,14 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
     <img 
       alt="youtube subscribers" 
       title="Subscribe to my YouTube channel" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge"
+      src="https://img.shields.io/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge"
     />
   </a>
   <a href="https://www.youtube.com/@rust2649">
     <img 
       alt="youtube views" 
       title="YouTube views" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge"
+      src="https://img.shields.io/youtube/channel/views/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge"
     />
   </a> 
   <a href="https://github.com/itz-tony?tab=repositories&sort=stargazers">
@@ -90,6 +90,8 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 [<img align="left" alt="Discord" width="26px" src="https://cdn.discordapp.com/attachments/1053253983696867348/1053255180428251206/Vector.png" style="padding-right:10px;" />][discord-user-id]
 [<img align="left" alt="github" width="26px" src="./img/github-dark.svg" style="padding-right:10px;" />](https://github.com/itz-tony)
 [<img align="left" alt="youtube" width="26px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube]
+
+<br />
 
 ---
 
