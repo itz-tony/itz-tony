@@ -26,11 +26,8 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 
 - Learn more about web3
 - Learn JAVA and JS
-  <!-- Image shields
-  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-  [![Discord Server](https://img.shields.io/discord/1058990433553883156?color=red&label=SERVER&logo=discord&logoColor=red&style=for-the-badge)][discord-server-invite-link] -->
 
-## 🔗 Connect With Me
+## 🔗 Links
 
 <!-- Social badges section -->
 
@@ -89,7 +86,7 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 
 <br />
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -109,7 +106,7 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-### 📘 Latest Blog posts
+## 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
