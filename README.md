@@ -106,14 +106,16 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-## 📘 Latest Blog posts
+---
+
+### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
 - [HI](https://dev.to/itztony/hi-m6a)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
+<details title="Stats">
   <summary>:zap: GitHub Stats</summary>
   <br />
   
