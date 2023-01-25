@@ -106,20 +106,26 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-## 📘 Latest Blog posts
+<details open>
+  <summary><h2>📘 Latest Blog Posts</h2></summary>
+  
+  <p>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+  </p>
 
-<!-- BLOG-POST-LIST:START -->
+</details>
 
-- [HI](https://dev.to/itztony/hi-m6a)
-<!-- BLOG-POST-LIST:END -->
-
-## ⚡ GitHub Stats
-
-<img 
-  align="left" 
-  alt="Itz-Tony's GitHub Stats" 
-  src="https://github-readme-stats.vercel.app/api?username=itz-tony&show_icons=true&theme=radical&hide_border=true" 
-/>
+<details open>
+  <summary><h2>⚡ Github Stats</h2></summary>
+  <p>
+  <img 
+    align="center" 
+    alt="Itz-Tony's GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=itz-tony&show_icons=true&theme=radical&hide_border=true" 
+  />
+  </p>
+</details>
 
 <!-- DEFINATIONS -->
 
