@@ -87,13 +87,7 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
   </a>
 </p>
 
-[<img align="left" alt="Discord" width="26px" src="https://cdn.discordapp.com/attachments/1053253983696867348/1053255180428251206/Vector.png" style="padding-right:10px;" />][discord-user-id]
-[<img align="left" alt="github" width="26px" src="./img/github-dark.svg" style="padding-right:10px;" />](https://github.com/itz-tony)
-[<img align="left" alt="youtube" width="26px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube]
-
 <br />
-
----
 
 ### 🧰 Languages and Tools
 
@@ -115,16 +109,10 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
----
-
 ### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [HI](https://dev.to/itztony/hi-m6a)
 <!-- BLOG-POST-LIST:END -->
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
