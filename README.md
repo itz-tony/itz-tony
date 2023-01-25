@@ -83,6 +83,7 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
     src="https://discord.com/api/guilds/1058990433553883156/widget.png?style=banner2"/>
   </a>
 </p>
+
 ---
 
 ## 🧰 Languages and Tools
