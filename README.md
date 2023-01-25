@@ -111,7 +111,8 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
   
   <p>
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [HI](https://dev.to/itztony/hi-m6a)
+<!-- BLOG-POST-LIST:END -->
   </p>
 
 </details>
