@@ -5,7 +5,7 @@
 <!-- Image shields -->
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vag?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Discord Server](https://img.shields.io/discord/853671224588238928?color=red&label=Server&logo=discord&logoColor=red&style=for-the-badge)][discord-server-invite-link]
+[![Discord Server](https://img.shields.io/discord/1058990433553883156?color=red&label=SERVER&logo=DISCORD&logoColor=red&style=for-the-badge)][discord-server-invite-link]
 
 <!-- Intro -->
 
@@ -70,4 +70,5 @@
 
 [youtube]: https://youtube.com/@rust2649
 [discord-user-id]: https://discordapp.com/users/919538751452119040
-[discord-server-invite-link]: https://discord.com/invite/Wh6DcV2J?utm_source=Discord%20Widget&utm_medium=Connect
+[discord-server-invite-link]: https://discord.com/invite/nGE9bmXnEW
+
