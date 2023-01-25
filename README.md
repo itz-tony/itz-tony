@@ -107,24 +107,19 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 
 ## 📘 Latest Blog posts
 
-<details>
-  <summary> Latest Blog Posts <summary>
-  <br />
-
 <!-- BLOG-POST-LIST:START -->
 
 - [HI](https://dev.to/itztony/hi-m6a)
 <!-- BLOG-POST-LIST:END -->
 
-</details>
+## ⚡ GitHub Stats
 
-<details title="Stats">
-  <summary>:zap: GitHub Stats</summary>
-  <br />
-  
-  <img align="left" alt="Itz-Tony's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itz-tony&show_icons=true&theme=radical&hide_border=true" />
-
-</details>
+<br />
+<img 
+  align="left" 
+  alt="Itz-Tony's GitHub Stats" 
+  src="https://github-readme-stats.vercel.app/api?username=itz-tony&show_icons=true&theme=radical&hide_border=true" 
+/>
 
 <!-- DEFINATIONS -->
 
