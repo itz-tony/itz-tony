@@ -6,7 +6,7 @@
 
 **`Digital Craftsman (Developer/Film maker/Creator/Noob Gamer)`**
 
-Hey there, I'm an indie backend developer (wanna be full-stack developer soon tough 😅). All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Film making is my side hobby, in which I have interest from age 13
+Hey there, I'm an indie backend learner (wanna be full-stack developer soon tough 😅). All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Film making is my side hobby, in which I have interest from age 13
 
 ## 🧐 About
 
@@ -96,6 +96,7 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 ## 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [HI](https://dev.to/itztony/hi-m6a)
 <!-- BLOG-POST-LIST:END -->
 
