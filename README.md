@@ -12,8 +12,9 @@ Hey there, I'm an indie backend learner (wanna be full-stack developer soon toug
 
 - Community guy who loves being involved in communities and help them grow
 - I love creating discord bot projects using [Discord.js library](https://discord.js.org/#/) and Java projects.
-- I'm Grade 11th Science Student.
+- I'm Grade 12th Science Student.
 - I'm currently learning about JAVA and Javascript
+- Wanna be Homelaber 🤣
 - Ask me about anything and everything
 - Contact me:
   - Discord ID: [ItzAbhi#7931][discord-user-id]
